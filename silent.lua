@@ -1,3 +1,5 @@
+print("- blinx's slient aim loaded")
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
